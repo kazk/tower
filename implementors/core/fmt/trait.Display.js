@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["tower"] = [{"text":"impl Display for Discover","synthetic":false,"types":[]},{"text":"impl Display for ServiceError","synthetic":false,"types":[]},{"text":"impl Display for Closed","synthetic":false,"types":[]},{"text":"impl Display for Overloaded","synthetic":false,"types":[]},{"text":"impl&lt;K&gt; Display for Failed&lt;K&gt;","synthetic":false,"types":[]},{"text":"impl Display for Elapsed","synthetic":false,"types":[]},{"text":"impl Display for None","synthetic":false,"types":[]}];
+implementors["tower_test"] = [{"text":"impl Display for Closed","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

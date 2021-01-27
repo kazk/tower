@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["tower"] = [{"text":"impl Copy for Builder","synthetic":false,"types":[]},{"text":"impl&lt;Request&gt; Copy for BufferLayer&lt;Request&gt;","synthetic":false,"types":[]},{"text":"impl Copy for Rate","synthetic":false,"types":[]},{"text":"impl Copy for CompleteOnResponse","synthetic":false,"types":[]},{"text":"impl Copy for Cost","synthetic":false,"types":[]},{"text":"impl Copy for Count","synthetic":false,"types":[]},{"text":"impl&lt;T:&nbsp;Copy&gt; Copy for ServiceFn&lt;T&gt;","synthetic":false,"types":[]}];
+implementors["tower_layer"] = [{"text":"impl&lt;F:&nbsp;Copy&gt; Copy for LayerFn&lt;F&gt;","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
